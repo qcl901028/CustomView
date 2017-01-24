@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 里面的项目是用来学习用的  都没有进行封装
+# 里面的Demo都没有进行封装
 
 ###一、mytaobao  模仿的淘宝中  我的淘宝界面的双波浪图 
 
@@ -13,6 +12,4 @@
 
 ![模仿淘宝.gif](/Users/hezhijingwei/Documents/Github/CustomView/模仿淘宝选择购物车/模仿淘宝.gif)
 
-=======
-# CustomView
->>>>>>> origin/master
+
