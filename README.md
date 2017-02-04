@@ -1,4 +1,4 @@
-# 里面的Demo都没有进行封装
+[# 里面的Demo都没有进行封装
 
 ###一、mytaobao  模仿的淘宝中  我的淘宝界面的双波浪图 
 ##### 技术博客：地址 [模仿我的淘宝双波浪线和翻页效果](http://www.jianshu.com/p/c1dbcc3aa775)
@@ -238,6 +238,5 @@
 
 
 
-
-
-
+[最后附Demo地址](https://github.com/qcl901028/CustomView)
+欢迎各位伙伴们的Star
