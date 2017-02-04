@@ -1,4 +1,4 @@
-[# 里面的Demo都没有进行封装
+# 里面的Demo都没有进行封装
 
 ###一、mytaobao  模仿的淘宝中  我的淘宝界面的双波浪图 
 ##### 技术博客：地址 [模仿我的淘宝双波浪线和翻页效果](http://www.jianshu.com/p/c1dbcc3aa775)
@@ -7,7 +7,17 @@
 
 
 
-###二、加载动画 支付宝里面的加载动画效果
+### 二、模仿动动软件进入菜单
+
+![1949713-dde75dfb3988de94.gif](./模仿动动进入菜单/1949713-dde75dfb3988de94.gif)
+
+
+![CLDatePickerView.gif](./模仿动动进入菜单/CLDatePickerView.gif)
+
+
+
+
+###三、加载动画 支付宝里面的加载动画效果
 
 
 
@@ -15,13 +25,13 @@
 
 
 
-###三、模仿淘宝选择购物车 模仿淘宝选择颜色、尺码界面  并加入购物车抛物线动画
+###四、模仿淘宝选择购物车 模仿淘宝选择颜色、尺码界面  并加入购物车抛物线动画
 
 
 ![模仿淘宝.gif](./模仿淘宝选择购物车/模仿淘宝.gif)
 
 
-### 四、图片轮播  三张imageView 相互切换实现的
+### 五、图片轮播  三张imageView 相互切换实现的
 
 
 
@@ -81,7 +91,7 @@
 
 
 
-### 五、AlertController 模仿微信的弹出框
+### 六、AlertController 模仿微信的弹出框
 
 
 
@@ -117,7 +127,7 @@
 
 
 
-### 六、CLDataPickerController 这个是年月选择器  内部用UIPickView实现的
+### 七、CLDataPickerController 这个是年月选择器  内部用UIPickView实现的
 
 
 
@@ -145,7 +155,7 @@
 
 
 
-### 七、CLKeyboardPassWord 这个是密码键盘  下面的数字是随机生成的  对支付时输入密码更安全 调用只需要
+### 八、CLKeyboardPassWord 这个是密码键盘  下面的数字是随机生成的  对支付时输入密码更安全 调用只需要
 
 ![CLKeyboardPassWord.gif](./CLKeyboardPassWord/CLKeyboardPassWord.gif)
 
@@ -169,7 +179,7 @@
     [key show];
 ```
 
-### 八、CLPhotoWall 这个是仿照微信的多选图片 
+### 九、CLPhotoWall 这个是仿照微信的多选图片 
 
 
 ![CLPhotoWall.gif](./CLPhotoWall/CLPhotoWall.gif)
